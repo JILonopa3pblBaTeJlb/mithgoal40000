@@ -23,7 +23,7 @@ python setup.py
 
 python main.py
 
-чтобы виселов вечно и не падало можно через screen:
+чтобы висело вечно и не падало можно через screen:
 
 screen -dmS mithgoal python main.py
 
